@@ -1,6 +1,7 @@
 <img width="462" height="427" alt="image" src="https://github.com/user-attachments/assets/5033d492-1fae-447f-bafa-4aace8066399" />
 
 Simulación de Movimiento y Comportamiento en Videojuegos (Personajes)
+
 Descripción
 
 Este proyecto consiste en desarrollar un sistema de simulación de unidades de combate en Java, aplicando conceptos de Programación Orientada a Objetos (POO), especialmente el polimorfismo, la herencia y la abstracción.
